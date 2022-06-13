@@ -1,4 +1,4 @@
-<h1>Salut <?= $prenom; ?></h1>
+<h1>Salut</h1>
 
 <?= $this->start('sidebar'); ?>
 
